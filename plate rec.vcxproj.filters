@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chars.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Plates.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="RecChar.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="RecPlate.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Preprocess.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chars.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Plates.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="RecChar.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="RecPlate.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Preprocess.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="classifications1.xml">
+      <Filter>Fichiers de ressources</Filter>
+    </Xml>
+    <Xml Include="images.xml">
+      <Filter>Fichiers de ressources</Filter>
+    </Xml>
+    <Xml Include="classifications.xml">
+      <Filter>Fichiers de ressources</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Dubai1.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image1.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image2.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image3.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image4.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image5.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image6.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image7.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image8.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image9.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image10.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image11.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image12.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image13.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image14.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image15.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="image16.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="imgOriginalScene.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="pic.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="pic1.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\1.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\2.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\3.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\4.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\5.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\6.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\7.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\8.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\9.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\10.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\11.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\img.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="..\img2.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="lll.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="R.jfif">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="RR.jfif">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="C1.PNG">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="C2.jpg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="C3.jpeg">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
